@@ -1,22 +1,22 @@
 [
   {
-    "title": "Person of Interest",
-    "url": "https://krthr.co/person-of-interest/"
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip"
   },
   {
-    "title": "Petered (what happens after the Peter Principle)",
-    "url": "https://aworkinglibrary.com/writing/petered"
+    "title": "The Reconstruction of Torn Documents",
+    "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/"
   },
   {
-    "title": "Goodbye Claude, Hello Pi",
+    "title": "I'm not a fan of Deno's security model (2024)",
+    "url": "https://goldstein.lol/posts/deno-security/"
+  },
+  {
+    "title": "Writing as a thinking tool",
+    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
+  },
+  {
+    "title": "Goodbye Claude, hello Pi",
     "url": "https://caleb.software/posts/claude-to-pi.html"
-  },
-  {
-    "title": "JIT bitmap text rendering for microcontrollers",
-    "url": "https://linebender.org/blog/jit-bitmap-text/"
-  },
-  {
-    "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-    "url": "https://clj.rs/"
   }
 ]
