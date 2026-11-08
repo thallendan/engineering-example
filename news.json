@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Person of Interest",
+    "url": "https://krthr.co/person-of-interest/"
+  },
+  {
+    "title": "Petered (what happens after the Peter Principle)",
+    "url": "https://aworkinglibrary.com/writing/petered"
+  },
+  {
+    "title": "Goodbye Claude, Hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html"
+  },
+  {
+    "title": "JIT bitmap text rendering for microcontrollers",
+    "url": "https://linebender.org/blog/jit-bitmap-text/"
+  },
+  {
+    "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+    "url": "https://clj.rs/"
+  }
+]
