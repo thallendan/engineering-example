@@ -1,22 +1,22 @@
 [
   {
-    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "url": "https://pietromiotti.com/latest/maya-site/?maya"
+    "title": "AWS emulator",
+    "url": "https://github.com/aws/aws-emulator"
   },
   {
-    "title": "Can a Linear Program Do Weight-Space Programming?",
-    "url": "https://nathan.rs/posts/weight-space-lp/"
+    "title": "Tim Peters has died",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
   },
   {
-    "title": "Using voltage glitching to unleash the A100 in my mining card",
-    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/"
+    "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+    "url": "https://www.mcmillen.dev/sigbovik/"
   },
   {
-    "title": "Protecting SSH Keys with macOS Secure Enclave",
-    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/"
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
   },
   {
-    "title": "Smart home devices should work without the internet",
-    "url": "https://docodethatmatters.com/home-automation-overnight-success/"
+    "title": "Lock Your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/"
   }
 ]
