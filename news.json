@@ -1,22 +1,22 @@
 [
   {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "url": "https://www.mcmillen.dev/sigbovik/"
+    "title": "NVIDIA Announces CEO Transition",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
   },
   {
-    "title": "Tim Peters has died",
-    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"
+    "title": "Why Writing Correct Software Is Hard",
+    "url": "https://pron.github.io/posts/correctness-and-complexity"
   },
   {
-    "title": "AWS emulator",
-    "url": "https://github.com/aws/aws-emulator"
+    "title": "Jane Street: Socratic Tutor",
+    "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
   },
   {
-    "title": "Critical RCE Vulnerability in Apache HTTP Server",
-    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    "title": "Jensen Huang resigns as Nvidia CEO immediately",
+    "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
   },
   {
-    "title": "Nvidia is preparing to oust Jensen Huang",
-    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    "title": "A live tree of systemd jobs on the boot console",
+    "url": "https://codeberg.org/wvhulle/bootvine"
   }
 ]
