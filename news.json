@@ -1,22 +1,22 @@
 [
   {
-    "title": "NVIDIA Announces CEO Transition",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    "title": "Jensen Huang resigns",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
   },
   {
-    "title": "Why Writing Correct Software Is Hard",
-    "url": "https://pron.github.io/posts/correctness-and-complexity"
+    "title": "Rust 1.100",
+    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
   },
   {
-    "title": "Jane Street: Socratic Tutor",
-    "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"
+    "title": "Gemini 4 Hydrogen and Orchestrator",
+    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
   },
   {
-    "title": "Jensen Huang resigns as Nvidia CEO immediately",
-    "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+    "title": "Foundation Models framework",
+    "url": "https://developer.apple.com/foundation-models-framework/"
   },
   {
-    "title": "A live tree of systemd jobs on the boot console",
-    "url": "https://codeberg.org/wvhulle/bootvine"
+    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
   }
 ]
