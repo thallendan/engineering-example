@@ -1,5 +1,9 @@
 [
   {
+    "title": "Africa's solar revolution is vast and speedy",
+    "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy"
+  },
+  {
     "title": "Jensen Huang resigns",
     "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"
   },
@@ -8,15 +12,11 @@
     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
   },
   {
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+  },
+  {
     "title": "Gemini 4 Hydrogen and Orchestrator",
     "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
-  },
-  {
-    "title": "Foundation Models framework",
-    "url": "https://developer.apple.com/foundation-models-framework/"
-  },
-  {
-    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
   }
 ]
